@@ -1,0 +1,31 @@
+{
+  "summary": "Corrigir bugs múltiplos do admin",
+  "todos": [
+    {
+      "id": 1,
+      "description": "Corrigir tela branca ao salvar e erros críticos de CRUD (cursos, páginas, usuários)",
+      "files": [],
+      "status": "complete"
+    },
+    {
+      "id": 2,
+      "description": "Implementar editor WYSIWYG para páginas e aplicar identidade visual dinâmica",
+      "files": [],
+      "status": "complete"
+    },
+    {
+      "id": 3,
+      "description": "Corrigir abas de Reuniões, WhatsApp, Integrações e Logs",
+      "files": [],
+      "status": "complete"
+    },
+    {
+      "id": 4,
+      "description": "Melhorar área do aluno (calendário, navegação)",
+      "files": [],
+      "status": "complete"
+    }
+  ],
+  "createdAt": "2026-10-20T11:19:13.135Z",
+  "updatedAt": "2026-10-21T11:06:13.964Z"
+}
